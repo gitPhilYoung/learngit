@@ -3,4 +3,5 @@ This is Line1
 Git is a distributed version control system
 Git is free software
 
-balblablablablablabla
+
+Git has a multable index called stage.
